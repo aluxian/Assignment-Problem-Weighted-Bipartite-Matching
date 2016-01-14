@@ -1,0 +1,32 @@
+{
+  "Jim": {
+    "CleanBathroom": 3,
+    "SweepFloors": 3,
+    "WashWindows": 2
+  },
+  "Steve": {
+    "CleanBathroom": 3,
+    "SweepFloors": 2,
+    "WashWindows": 3
+  },
+  "Alan": {
+    "CleanBathroom": 3,
+    "SweepFloors": 3,
+    "WashWindows": 3
+  },
+  "CleanBathroom": {
+    "Jim": 3,
+    "Steve": 3,
+    "Alan": 3
+  },
+  "SweepFloors": {
+    "Jim": 3,
+    "Steve": 2,
+    "Alan": 3
+  },
+  "WashWindows": {
+    "Jim": 2,
+    "Steve": 3,
+    "Alan": 3
+  }
+}
